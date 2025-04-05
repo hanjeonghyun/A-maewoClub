@@ -1,22 +1,11 @@
-# 🦁 멋쟁이사자처럼 FE PLUS - 불사조: A-maewoClub
-![image](https://github.com/user-attachments/assets/c28681e5-fcfe-43c3-a6f6-3b8ce3245f62)
+<div align="center">
+  <h3>A-maewo Club |  아매워 클럽</h3>
+  <h3>매운 맛 애호가들을 위한 커뮤니티 서비스🌶️ </h3>
+</div>
 
 <br>
 
-## 목차📜
-
-## 🏠배포 주소
-
-<br>
-
-## 🚀프로젝트 소개 
-- 아매워클럽은 매운맛 애호가들을 위한 커뮤니티입니다.
-- 커뮤니티 게시판 기능을 통하여 매운맛을 공유하고 함께 음식을 즐길 수 있습니다. 
-
-<br>
-
-##  🚀프로젝트 개요
-- 구현 시안: 매운맛 커뮤니티
+## 🚀프로젝트 개요
 - 프로젝트 기간: 2025.1.16 ~ 2024.2.13
 - 리팩토링 기간: 
 - 프로젝트 특징: 클린 아키텍처, TS와 Next 기술 익히기
@@ -24,22 +13,24 @@
 
 <br>
 
+## 🔔 주요 기능
+| 메인 페이지 | 커뮤니티 등록 |
+|:--:|:--:|
+| <img src="https://github.com/user-attachments/assets/cb9fde14-3776-42d7-a110-533029865e61" width="450" height="300" /> | <img src="https://github.com/user-attachments/assets/8a4b6028-6f48-423a-8f83-438fa4490b1b" width="450" height="300" /> |
+
+| 커뮤니티 상세 | 어드민 |
+|:--:|:--:|
+| <img src="https://github.com/user-attachments/assets/5e6be87e-5948-4d70-8c5d-77c91074b2dd" width="450" height="300" /> | <img src="https://github.com/user-attachments/assets/7266a137-2230-45ef-86c7-17d5517e31ba" width="450" height="300" /> |
+
+<br>
+
+
 ##  👨‍👩‍👧‍👦팀원 구성
 
 |[김주영(Lead)](https://github.com/jyservice781)|[최승원(Recorder)](https://github.com/romaneechoiti)|[정현수(Scrum)](https://github.com/hyun9758)|[한정현(PM)](https://github.com/hanjeonghyun)
 |:----:|:----:|:----:|:----:|
 |<img src="https://avatars.githubusercontent.com/u/142976288?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/112051914?v=4" width="200">|<img src="https://github.com/FRONTENDSCHOOL8/dosirak/assets/82191626/ad014ace-2ce2-4a0a-ae8a-b12a439eb5c5" width="200">|<img src="https://avatars.githubusercontent.com/u/129199377?v=4" width="200">
-
-<br>
-
-## 🤙담당 페이지
-
-| 이름       | 페이지(담당기능)                                               
-| ---------- | ------------------------------------------------------------ 
-| **김주영** | **기타** - 
-| **최승원** | **기타** - 
-| **정현수** | **기타** - 
-| **한정현** | **기타** - 
+| | | | - 메인 화면 개발 <br /> - 게시글 상세 페이지 <br /> - 어드민 상세 페이지
 
 <br>
 
