@@ -16,11 +16,11 @@
 ## 🔔 주요 기능
 | 메인 페이지 | 커뮤니티 등록 |
 |:--:|:--:|
-| <img src="https://github.com/user-attachments/assets/cb9fde14-3776-42d7-a110-533029865e61" width="400" height="300" /> | <img src="https://github.com/user-attachments/assets/8a4b6028-6f48-423a-8f83-438fa4490b1b" width="400" height="300" /> |
+| <img src="https://github.com/user-attachments/assets/cb9fde14-3776-42d7-a110-533029865e61" width="350" height="300" /> | <img src="https://github.com/user-attachments/assets/8a4b6028-6f48-423a-8f83-438fa4490b1b" width="350" height="300" /> |
 
 | 커뮤니티 상세 | 어드민 |
 |:--:|:--:|
-| <img src="https://github.com/user-attachments/assets/5e6be87e-5948-4d70-8c5d-77c91074b2dd" width="400" height="300" /> | <img src="https://github.com/user-attachments/assets/7266a137-2230-45ef-86c7-17d5517e31ba" width="400" height="300" /> |
+| <img src="https://github.com/user-attachments/assets/5e6be87e-5948-4d70-8c5d-77c91074b2dd" width="350" height="300" /> | <img src="https://github.com/user-attachments/assets/7266a137-2230-45ef-86c7-17d5517e31ba" width="350" height="300" /> |
 
 <br>
 
